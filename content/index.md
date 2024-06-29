@@ -1,5 +1,5 @@
 ---
-title: Timtonix's brain
+title: Timtonix's garden
 ---
 
 # Bienvenue dans mon crâne
@@ -23,15 +23,6 @@ Mais bon je vais me concentrer sur le diplôme d'ingénieur pour l'instant et av
 -> Bien sur j'aimerais aussi faire un TedTalk parce que c'est cool.
 Et comme tout créatif qui se respecte j'ai des idées dites de gauche.
 
-
-## Organisation de ce site
-> [!NOTE]
-> Les catégories vont sûrement évoluer looooooooooooooooool
-
-### Lycée
-> Je déteste ça mais bon, j'y passe 70% de mon année
-
-Vous trouverez ici tout ce qui concerne les **cours** et ce que je prévois ou ai fait au lycée
 
 ### Liens utiles
 Je vous conseil de faire un tour dans la [[Wishlist]] pour connaitre un peu mes projets dans leur globalité.
