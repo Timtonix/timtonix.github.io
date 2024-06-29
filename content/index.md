@@ -1,5 +1,5 @@
 ---
-title: Timtonix Website
+title: Timtonix's brain
 ---
 
 # Bienvenue dans mon crâne
@@ -33,3 +33,5 @@ Et comme tout créatif qui se respecte j'ai des idées dites de gauche.
 
 Vous trouverez ici tout ce qui concerne les **cours** et ce que je prévois ou ai fait au lycée
 
+### Liens utiles
+Je vous conseil de faire un tour dans la [[Wishlist]] pour connaitre un peu mes projets dans leur globalité.

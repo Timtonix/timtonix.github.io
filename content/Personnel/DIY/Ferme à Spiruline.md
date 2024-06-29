@@ -1,7 +1,7 @@
 Le but de ce projet est de faire une ferme DIY chez soi pour faire pousser de la Spiruline.
 
 > [!IMPORTANT]
-> Je commence le projet en septembre
+> Je commence le projet en **septembre**
 
 
 ## Matériel
