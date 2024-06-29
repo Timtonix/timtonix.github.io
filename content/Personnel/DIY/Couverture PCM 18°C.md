@@ -19,3 +19,7 @@ Ce mec qui a fait une vidéo sur ça
 - 60mL de sel/Chlorure de sodium
 -> Pour faire des packs de glace on peut ajouter de la gomme de Xhatane (ou CMC carboxymethyl cellulose)
 - Une vielle serviette
+
+## Adresses utiles :
+- Droguerie de Roubaix https://www.roubaixxl.fr/commerce-droguerie-debril/
+  -> 81 Rue de l’Epeule, 59100 Roubaix
