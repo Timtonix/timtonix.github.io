@@ -19,9 +19,18 @@ Je m'appelle Timothé, je suis en classe de Terminale dans le **Nord** de la Fra
 
 Mon but dans la vie vraiment c'est d'aider les gens.
 Je voudrais faire de la **cybersécurité**, **éducation populaire**, des **neurosciences**...
-Mais bon je vais me concentrer sur le diplôme d'ingénieur pour l'instant et avec plus de connaissances théoriques en (Maths/Physique/Info...)
+Mais bon je vais me concentrer sur le présent pour l'instant et on avisera pour plus tard.
 -> Bien sur j'aimerais aussi faire un TedTalk parce que c'est cool.
-Et comme tout créatif qui se respecte j'ai des idées dites de gauche.
+Et comme tout créatif qui se respecte j'ai des idées dites **de gauche**.
+
+## Trucs
+- J'adore les **fleurs**
+- La musique
+- Les blagues
+- Lire
+- La politique
+- Les sciences
+- euh...
 
 
 ### Liens utiles
