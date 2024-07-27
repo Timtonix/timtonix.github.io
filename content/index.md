@@ -8,7 +8,7 @@ title: Timtonix's garden
  
 ## Présentation
 
-Je m'appelle Timothé, en classe de Terminale.
+Je m'appelle Timothé, je suis en classe de Terminale dans le **Nord** de la France
 - J'ai commencé l'informatique à 11 ans.
 - Avec l'aide d'amis, monté la Junior association  **Devlowave** en 4e.
 - Mis en place plusieurs projets afin d'améliorer la vie du lycée comme une soirée Jeu Vidéo, un club actualités et je prévois de continuer cette année via un atelier **brioches**

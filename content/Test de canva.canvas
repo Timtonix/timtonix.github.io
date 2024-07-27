@@ -1,9 +1,0 @@
-{
-	"nodes":[
-		{"id":"a799960e0faa28b1","x":-200,"y":180,"width":250,"height":60,"type":"text","text":"C'est quoi ça ??"},
-		{"id":"d8ab482736c3466e","x":340,"y":10,"width":400,"height":400,"type":"file","file":"Personnel/DIY/Couverture PCM 18°C.md"}
-	],
-	"edges":[
-		{"id":"3543380a792af256","fromNode":"a799960e0faa28b1","fromSide":"right","toNode":"d8ab482736c3466e","toSide":"left"}
-	]
-}
