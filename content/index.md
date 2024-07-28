@@ -17,11 +17,12 @@ Je m'appelle Timothé, je suis en classe de Terminale dans le **Nord** de la Fra
 
 ## But dans la vie
 
-Mon but dans la vie vraiment c'est d'aider les gens.
+Mon but dans la vie vraiment c'est vivre.
 Je voudrais faire de la **cybersécurité**, **éducation populaire**, des **neurosciences**...
-Mais bon je vais me concentrer sur le présent pour l'instant et on avisera pour plus tard.
+Mais bon je vais me concentrer sur le présent pour l'instant et on avisera pour plus tard, parce que la je (me/nous) cherche t'as capté ?
 -> Bien sur j'aimerais aussi faire un TedTalk parce que c'est cool.
-Et comme tout créatif qui se respecte j'ai des idées dites **de gauche**.
+
+
 
 ## Trucs
 - J'adore les **fleurs**
@@ -30,6 +31,7 @@ Et comme tout créatif qui se respecte j'ai des idées dites **de gauche**.
 - Lire
 - La politique
 - Les sciences
+- L'art
 - euh...
 
 
