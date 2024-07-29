@@ -60,3 +60,7 @@ Chaque **section** porte un nom qui sera représenté ainsi dans le fichier **ht
 > 	}
 > }
 
+
+## Le Design
+- Alors c'est très important de bien designer notre première template car c'est elle qui va déterminer si l'outil est **essentiel**
+- Il faut donc take a look to [[Design Brief]]
