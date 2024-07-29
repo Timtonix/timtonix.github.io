@@ -8,7 +8,7 @@ title: Timtonix's garden
  
 ## Présentation
 
-Je m'appelle Timothé, en classe de Terminale.
+Je m'appelle Timothé, je suis en classe de Terminale dans le **Nord** de la France
 - J'ai commencé l'informatique à 11 ans.
 - Avec l'aide d'amis, monté la Junior association  **Devlowave** en 4e.
 - Mis en place plusieurs projets afin d'améliorer la vie du lycée comme une soirée Jeu Vidéo, un club actualités et je prévois de continuer cette année via un atelier **brioches**
@@ -17,11 +17,22 @@ Je m'appelle Timothé, en classe de Terminale.
 
 ## But dans la vie
 
-Mon but dans la vie vraiment c'est d'aider les gens.
+Mon but dans la vie vraiment c'est vivre.
 Je voudrais faire de la **cybersécurité**, **éducation populaire**, des **neurosciences**...
-Mais bon je vais me concentrer sur le diplôme d'ingénieur pour l'instant et avec plus de connaissances théoriques en (Maths/Physique/Info...)
+Mais bon je vais me concentrer sur le présent pour l'instant et on avisera pour plus tard, parce que la je (me/nous) cherche t'as capté ?
 -> Bien sur j'aimerais aussi faire un TedTalk parce que c'est cool.
-Et comme tout créatif qui se respecte j'ai des idées dites de gauche.
+
+
+
+## Trucs
+- J'adore les **fleurs**
+- La musique
+- Les blagues
+- Lire
+- La politique
+- Les sciences
+- L'art
+- euh...
 
 
 ### Liens utiles
