@@ -3,6 +3,7 @@
 
 
 
+
 ## Nom de domaine
 Il faut absolument racheter ce nom de domaine ARGH
 
@@ -59,6 +60,7 @@ Chaque **section** porte un nom qui sera représenté ainsi dans le fichier **ht
 > 	navlink: ["ici"]
 > 	}
 > }
+
 
 
 ## Le Design
