@@ -1,10 +1,11 @@
 ---
+
 kanban-plugin: board
+
 ---
 
 ## Liste de lecture
 
-- [ ] *Dans l'oeuil du Cyclone* (Guillaume Meurice)
 - [ ] *La Méthode* (Edgar Morin)
 
 
@@ -17,6 +18,7 @@ kanban-plugin: board
 ## Terminés
 
 **Complete**
+- [x] *Dans l'oreille du Cyclone* (Guillaume Meurice)
 - [x] *Leçons d'un siècle de vie *(Edgar Morin)
 - [x] *Les Furtifs* (Alain Damasio)
 - [x] *La zone du dehors* (Alain Damasio)
