@@ -11,6 +11,7 @@ kanban-plugin: board
 
 ## En cours
 
+- [ ] La Nature de la Nature (Edgar Morin)
 - [ ] *LockSport : A hacker guide to lockpicking* (Many autors)
 - [ ] *La horde du contrevent* (Alain Damasio)
 
@@ -26,6 +27,7 @@ kanban-plugin: board
 - [x] *Les Fourmis* (Bernard Werber)
 - [x] *Sois jeune et tais-toi* (Salomé Saqué)
 - [x] *Mes Forêts* (Hélène Dorion)
+- [x] *Les thanatonautes* et suite (Bernard Werber)
 
 
 
