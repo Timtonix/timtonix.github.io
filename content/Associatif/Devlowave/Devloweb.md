@@ -66,3 +66,16 @@ Chaque **section** porte un nom qui sera représenté ainsi dans le fichier **ht
 ## Le Design
 - Alors c'est très important de bien designer notre première template car c'est elle qui va déterminer si l'outil est **essentiel**
 - Il faut donc take a look to [[Design Brief]]
+
+
+## Ajouter une image depuis l'éditeur
+
+> [!SOURCE]
+> https://flask.palletsprojects.com/en/2.3.x/patterns/fileuploads/
+> https://developer.mozilla.org/en-US/docs/Web/API/File_API/Using_files_from_web_applications
+
+- Pour gérer une image depuis l'éditeur, on doit d'abord avoir une **[[dropbox]]**.
+- Sachant que l'éditeur est aussi une sort de preview, si une image est a été enregistré, elle doit apparaître derrière la [[dropbox]]
+- La dropbox doit faire la taille de l'*image recommandé*, parce que de toute façon l'image sera scale.
+- On doit pouvoir le *resize* de l'image avant l'upload
+- L'image sera compressé
